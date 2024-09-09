@@ -66,3 +66,14 @@ h1{
 .nav > li > a:focus{
     color: crimson;
 }
+
+.table{
+    border-collapse: collapse;
+    padding: 10x;
+    width: 100%;
+}
+
+.table td, .table th{
+    border: 1px solid #ddd;
+    padding: 10px;
+}
