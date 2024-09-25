@@ -25,7 +25,7 @@ h1{
     padding-left: 15px;
     margin-left: auto;
     margin-right: auto;
-    width: 11709px;
+    width: 1170px;
 }
 
 .nav{
@@ -38,7 +38,7 @@ h1{
 .navbar-nav{
     float: left;
     margin: 0;
-    margin: 7px -15xp;
+    margin: 7px 15xp;
 }
 
 .nav > li{
@@ -48,8 +48,8 @@ h1{
 }
 
 .nav > li > a{
- /*padding-top: 10px;
- padding-bottom: 10px;*/
+ padding-top: 10px;
+ padding-bottom: 10px;
 
  padding: 10px 15px;
 
@@ -70,10 +70,10 @@ h1{
 .table{
     border-collapse: collapse;
     padding: 10x;
-    width: 100%;
+    width: 50%;
 }
 
 .table td, .table th{
     border: 1px solid #ddd;
-    padding: 10px;
+    
 }
