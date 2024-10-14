@@ -1,0 +1,24 @@
+body{
+    font-family: "Helvetica",Helvetica,Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.50; 
+    color: #f8f417;
+    background-color: #700;
+    margin: 0;
+    text-align: left;
+}
+h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.planetas {
+
+    margin: 0 auto;
+    max-width: 150px;  
+    max-height: 150px; 
+}
+
+p {
+    font-size: 18px;
+    text-align: left;
+}

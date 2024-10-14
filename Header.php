@@ -10,6 +10,7 @@
            <div class="container">
              <ul class="nav navbar-nav">
                 <li><a href="index.html">Inicio</a></li>
+                <li><a href="planetas.php">Planeta</a></li>
                 <li><a href="Formulario.html">Agregar</a></li>
              </ul>
            </div>
