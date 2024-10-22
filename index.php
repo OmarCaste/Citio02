@@ -57,6 +57,5 @@
                     }
                  ?>
                 </tbody>
-            </table>
                 </table>
 <?php include("Footer.php")?>

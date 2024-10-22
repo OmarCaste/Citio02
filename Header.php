@@ -3,7 +3,7 @@
     <head>
         <title>Segunda aplicacion</title>
         <meta name="description" content="Este es un sitio para probar stilos css"  />
-        <link rel="stylesheet " href="CSS/style.css" type="text/css" /> 
+        <link rel="stylesheet " href="CSS/style copy.css" type="text/css" /> 
     </head>
     <body>
         <div class="navbar">
